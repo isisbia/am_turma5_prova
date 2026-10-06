@@ -626,7 +626,7 @@ print("\nRelatório de Classificação:\n", classification_report(y_test, y_pred
 
 Este módulo final conecta o estudante ao mercado financeiro em tempo real e histórico, processando cotações diárias, indicadores técnicos e métricas de sentimento de mercado obtidas via API HTTP da **Alpha Vantage**.
 
-### Prova Prática 13: Predição da Direção do Preço de Ações no Pregão Seguinte
+### Prova Prática 13: Predição da Direção do Preço de Ações no Pregão Seguinte (escolhi essa - Isis)
 * **Objetivo Pedagógico:** Prever se o preço de fechamento de uma ação (ex. `IBM`) subirá ou cairá no dia seguinte ($t+1$) com base na cotação e volatilidade do dia atual ($t$).
 * **Fontes de Dados:** Endpoint `TIME_SERIES_DAILY` da API Alpha Vantage (`datatype=json`).
 * **Roteiro Didático de Execução:**
